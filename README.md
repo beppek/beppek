@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Max Karlsson, a full-stack developer from Sweden 🇸🇪  living in Australia 🇦🇺
+I'm Max Karlsson, a full-stack developer from Sweden 🇸🇪 living in Australia 🇦🇺
 
 
 <!--
