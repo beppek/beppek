@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Max Karlsson, a full-stack developer from Sweden 🇸🇪 living in Australia 🇦🇺
-
+I'm Max Karlsson, a freelance full-stack developer from Sweden 🇸🇪 living in Australia 🇦🇺
 
 <!--
 **beppek/beppek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
