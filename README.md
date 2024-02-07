@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey 👋
 
-I'm Max Karlsson, a developer from Sweden 🇸🇪 living in Australia 🇦🇺, specialising in headless e-commerce.
+I'm Max Karlsson, a fractional tech lead from Sweden 🇸🇪 living in Australia 🇦🇺
 
 <!--
 **beppek/beppek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
